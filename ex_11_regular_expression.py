@@ -1,6 +1,6 @@
 '''Extracting Data With Regular Expressions
 In this assignment you will read through and parse a file with text and numbers.
-You will extract all the numbers in the file and compute the sum of the number.'''
+You will extract all the numbers in the file and compute the sum of the numbers.'''
 box = input('Select File: ')
 if len(box)>=1:
     box = 'regex_sum_207216.txt'
